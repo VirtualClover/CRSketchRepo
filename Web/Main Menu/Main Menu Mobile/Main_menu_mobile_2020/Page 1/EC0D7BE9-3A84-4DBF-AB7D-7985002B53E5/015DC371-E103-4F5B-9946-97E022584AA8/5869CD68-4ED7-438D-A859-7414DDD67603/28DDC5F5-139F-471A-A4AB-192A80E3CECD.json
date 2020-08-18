@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 14,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Guilermo López"
+    "string": "Natalia Báez"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,7 +52,7 @@
     "x": 60,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {112, 16}}",
+  "glyphBounds": "{{1, 5}, {89, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Guilermo López",
+  "name": "Natalia Báez",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
