@@ -1,0 +1,152 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9436AA49-79F9-4982-9D57-D744F66DB915",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1150,
+    "width": 921,
+    "x": 139,
+    "y": 275
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "56F8E845-610D-4F63-A8FD-F5D4CCFB5873"
+    },
+    {
+      "class": "group",
+      "id": "F57ACAB8-8A29-4D2E-AEAE-B6C7DC2FC5EE"
+    },
+    {
+      "class": "group",
+      "id": "7DA45967-F5A9-4822-A800-669569265D2E"
+    },
+    {
+      "class": "group",
+      "id": "99DFF898-C394-4069-92BE-B6ED635100C2"
+    },
+    {
+      "class": "group",
+      "id": "6AED383E-D0DA-401A-9F78-1B8FA4720DCD"
+    },
+    {
+      "class": "group",
+      "id": "E0370741-0920-4639-B8C0-F0279174299A"
+    },
+    {
+      "class": "group",
+      "id": "EE67CD28-6394-4BD4-B175-852178673D43"
+    },
+    {
+      "class": "group",
+      "id": "2F1C8AA9-3660-47E5-9083-2F679A3DBA86"
+    },
+    {
+      "class": "group",
+      "id": "62C1FC27-4907-47C4-8805-623AD7EFA86F"
+    },
+    {
+      "class": "group",
+      "id": "40CA87B0-B22F-4595-A1EA-78E24CC712CC"
+    },
+    {
+      "class": "group",
+      "id": "5441BBF6-C4A2-4BDA-8419-D137B5C17CC2"
+    },
+    {
+      "class": "group",
+      "id": "F0CF9FD8-22D5-43F3-88BD-01402D64AD04"
+    },
+    {
+      "class": "group",
+      "id": "1C29FCEE-6A2A-4130-89DF-37CFB02C45D2"
+    },
+    {
+      "class": "group",
+      "id": "DD7B1008-9012-462B-87C7-653502242E6C"
+    },
+    {
+      "class": "group",
+      "id": "48499F74-63C9-4563-AC17-542D3FD44990"
+    },
+    {
+      "class": "group",
+      "id": "C2ADBBD6-4F54-4D64-A09B-7C4F29715B25"
+    }
+  ],
+  "name": "CRStoreCard 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "10469766-57D7-4BBE-A583-2F9C81E88385",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

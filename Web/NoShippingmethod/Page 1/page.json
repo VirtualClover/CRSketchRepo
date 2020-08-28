@@ -1,0 +1,138 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B51C8B03-473D-4836-A183-640768CFB218",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "1E7E113D-C81F-4F25-B1B8-1DB52846942D"
+    },
+    {
+      "class": "artboard",
+      "id": "D4E26552-34B3-4F4B-8B26-D2EB9DBCEF64"
+    },
+    {
+      "class": "artboard",
+      "id": "D28EE133-5C29-4065-87F4-64161E3BE326"
+    },
+    {
+      "class": "artboard",
+      "id": "F58A914D-4492-4102-A1A1-8D35560558DC"
+    },
+    {
+      "class": "artboard",
+      "id": "A2CDFDCD-A7AA-426F-A59E-49DDCAA8CE51"
+    },
+    {
+      "class": "artboard",
+      "id": "2D470215-FFA7-4C6E-80AA-812B047B5B68"
+    },
+    {
+      "class": "artboard",
+      "id": "196D994E-0280-46DE-A98F-D4CA0AED3317"
+    },
+    {
+      "class": "artboard",
+      "id": "53802C35-F88F-4F08-929E-B6C0FA3AAA0A"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "8E7DE7ED-7015-40D6-814A-0B0E907FEE30",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.data": {
+      "json-files": "[{\"path\":\"6B0DFF67-0EC7-48A9-9E8E-482D25D842C6.json\",\"name\":\"http:\\/\\/canastarosa.com\\/api\\/v1\\/market\\/mystore\\/products\\/?page=1&page_size=15\",\"hash\":\"e7f23bb31e3868fe06e3f5725fc1c365d02c1920\"},{\"path\":\"B9DFB013-3254-40DB-AFD8-BF85CA6CDB51.json\",\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/market\\/top-products\\/\",\"hash\":\"487f39ba29b9de4e34581bf5685a9648fc1b419c\"},{\"path\":\"69CF15EA-19F3-49B7-955F-2D48DCB8A842.json\",\"name\":\"https:\\/\\/canastarosa.com\\/api\\/v1\\/market\\/stores\\/\",\"hash\":\"6cd4210e57ffcb8f0ea74afe3395459475ed1e2c\"}]"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

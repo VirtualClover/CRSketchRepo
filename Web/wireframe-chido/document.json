@@ -42,8 +42,9 @@
     "version": 127
   },
   "pages": [
-    "Page 1",
-    "Symbols"
+    "Symbols",
+    "Base blocks",
+    "Inputs"
   ],
   "userInfo": {
     "com.invision.dsm": {
@@ -51,7 +52,7 @@
         "5e0f8cfb8673a510135e3fd9": {
           "name": "Canasta DS",
           "styleguideId": "5e0f8cfb8673a510135e3fd9",
-          "updatedOn": "2020-08-20 21:33:41 +0000"
+          "updatedOn": "2020-08-20 21:41:52 +0000"
         },
         "sketchLibrariesData": {
           "layerStylesMap": {
